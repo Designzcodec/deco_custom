@@ -281,7 +281,7 @@ width: 100%;
 
 .tabs .content {
 padding: 20px 0px;
-position: absolute;
+left:0;
 top: 0px;
 
 color: #6C5D5D;
