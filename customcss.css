@@ -287,25 +287,25 @@ width: 100%;
 
 .tabs nav {
 
-flex-wrap: wrap;
-align-items: stretch;
-background: #08c;
-color: #fff;
+
+
+
+color: #333;
 width:100%;
 
 }
 
 .tabs nav a {
-padding: 20px 0px;
-text-align: center;
-width: 100%;
+padding: 10px 10px;
+text-align: center; font-size:16px;
+width: 100%; font-weight: 600;
 cursor: pointer;
 }
 
 .tabs nav a:hover,
 .tabs nav a.selected {
-background: #3498db;
-color: #fff;
+
+color: #3498db;
 text-shadow: 1px 1px 1px rgba(0, 0, 0, 0.2);
 }
 
