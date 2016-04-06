@@ -286,13 +286,13 @@ width: 100%;
 }
 
 .tabs nav {
-display: flex;
+
 flex-wrap: wrap;
 align-items: stretch;
 background: #08c;
 color: #fff;
+width:100%;
 
-width: 150px;
 }
 
 .tabs nav a {
