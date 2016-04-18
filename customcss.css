@@ -4,7 +4,7 @@ hgroup h2{top:0;left:5px;font-size:12px}
 .btn{width:80%;margin:20px auto;float:none}
 }
 .responsive-tabs__heading{display:none}
-.responsive-tabs__list__item{display:inline;cursor:pointer}
+.responsive-tabs__list__item{cursor:pointer}
 @media (max-width: 767px) {
 .responsive-tabs__list{display:none}
 .responsive-tabs__heading{display:block;cursor:pointer}
